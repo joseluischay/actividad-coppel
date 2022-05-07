@@ -23,12 +23,6 @@
 
  <div class="menu">
 
-  <ul>
-    <li><a href="inicio.html">Inicio</a></li>
-    <img src="images/carrito_1.png"></a>
-     <li><a href="carrito.html">Carrito</a></li>
-     
-  </ul>
   </div> 
 
   </header>
